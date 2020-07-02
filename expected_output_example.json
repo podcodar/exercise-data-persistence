@@ -1,0 +1,96 @@
+[
+    {
+        "name": "ERCILHA",
+        "gender": "F",
+        "region": "ZO",
+        "id": "ec5ecaec-11de-4899-8bb4-993a52c87b0a",
+        "kites": [
+            {
+                "color": "pink",
+                "width": 19,
+                "height": 49,
+                "rabiola": true
+            },
+            {
+                "color": "pink",
+                "width": 10,
+                "height": 11,
+                "rabiola": true
+            },
+            {
+                "color": "pink",
+                "width": 29,
+                "height": 50,
+                "rabiola": true
+            },
+            {
+                "color": "purple",
+                "width": 30,
+                "height": 21,
+                "rabiola": true
+            },
+            {
+                "color": "red",
+                "width": 31,
+                "height": 58,
+                "rabiola": true
+            },
+            {
+                "color": "green",
+                "width": 26,
+                "height": 26,
+                "rabiola": false
+            },
+            {
+                "color": "purple",
+                "width": 36,
+                "height": 26,
+                "rabiola": false
+            }
+        ]
+    },
+    {
+        "name": "JESSILENE",
+        "gender": "F",
+        "region": "ZS",
+        "id": "b234406a-6986-4b8d-9529-940d7961d94c",
+        "kites": [
+            {
+                "color": "green",
+                "width": 30,
+                "height": 22,
+                "rabiola": false
+            },
+            {
+                "color": "red",
+                "width": 51,
+                "height": 26,
+                "rabiola": true
+            },
+            {
+                "color": "pink",
+                "width": 17,
+                "height": 52,
+                "rabiola": true
+            },
+            {
+                "color": "red",
+                "width": 30,
+                "height": 44,
+                "rabiola": true
+            },
+            {
+                "color": "gray",
+                "width": 54,
+                "height": 15,
+                "rabiola": false
+            },
+            {
+                "color": "purple",
+                "width": 22,
+                "height": 17,
+                "rabiola": false
+            }
+        ]
+    }
+]
